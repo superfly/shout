@@ -12,6 +12,6 @@ require (
 	github.com/mattn/go-sqlite3 v1.14.6
 	github.com/mitchellh/cli v1.1.2 // indirect
 	github.com/mitchellh/mapstructure v1.4.1 // indirect
-	github.com/sirupsen/logrus v1.7.0
+	github.com/sirupsen/logrus v1.8.3
 	github.com/urfave/cli/v2 v2.3.0
 )
